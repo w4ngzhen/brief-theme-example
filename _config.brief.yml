@@ -1,0 +1,15 @@
+menus:
+  主页: /
+  关于: /about/
+  分类: /categories/
+  标签: /tags/
+  友情链接: /links/
+
+social:
+  GitHub: https://github.com/w4ngzhen/hexo-theme-brief || fa fa-github
+
+favicon:
+  small: /images/hexo-logo.svg
+  medium: /images/hexo-logo.svg
+  apple_touch_icon: /images/hexo-logo.svg
+  safari_pinned_tab: /images/hexo-logo.svg
