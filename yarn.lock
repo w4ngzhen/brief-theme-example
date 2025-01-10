@@ -553,10 +553,10 @@ hexo-server@^3.0.0:
     picocolors "^1.0.0"
     serve-static "^1.14.1"
 
-hexo-theme-brief@^0.1.0-beta.10:
-  version "0.1.0-beta.10"
-  resolved "https://registry.npmmirror.com/hexo-theme-brief/-/hexo-theme-brief-0.1.0-beta.10.tgz#a5dc7917c1154d3bf66097b954ecb25e669518ef"
-  integrity sha512-iDClyZ2pzf0LGwrkzgYWhCOJUjBkCZGgy1OYPLrhXAHBuLyh3KxEyCUW6nL5rEeje2Buk3cukXGXhHWmnTVTQA==
+hexo-theme-brief@^0.1.0-beta.11:
+  version "0.1.0-beta.11"
+  resolved "https://registry.npmmirror.com/hexo-theme-brief/-/hexo-theme-brief-0.1.0-beta.11.tgz#7349af278540a8ebcc578c13cec3fc358a7c0490"
+  integrity sha512-DXtWRL4tqA1jg4ZKVcxHbe/Rt4ZT0hvAFSm1agO7TawCm+N8G53kOTOb/rsEPYUUMI4/Dv2jQnUPgRRyb4R/Zw==
 
 hexo-util@^3.0.1, hexo-util@^3.3.0:
   version "3.3.0"
